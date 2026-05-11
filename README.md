@@ -20,7 +20,7 @@ Flesch-Kincaid readability metrics.
 5. Output is delivered in Technical or Simplified mode
 
 ## Web Interface
-![1](assets/streamlit app.png)
+![1](assets/st1.png)
 ![2](assets/st2.png)
 ![3](assets/st4.png)
 
