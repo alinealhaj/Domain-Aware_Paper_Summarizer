@@ -20,9 +20,9 @@ Flesch-Kincaid readability metrics.
 5. Output is delivered in Technical or Simplified mode
 
 ## Web Interface
-![Streamlit App](assets/st1.png)
-![Streamlit App](assets/st2.png)
-![Streamlit App](assets/st4.png)
+![Streamlit App](assets/st1.PNG)
+![Streamlit App](assets/st2.PNG)
+![Streamlit App](assets/st4.PNG)
 
 ## Files
 - `Final_summarizer.ipynb` — full pipeline: preprocessing, training, and inference
