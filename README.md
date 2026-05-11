@@ -20,8 +20,8 @@ Flesch-Kincaid readability metrics.
 5. Output is delivered in Technical or Simplified mode
 
 ## Files
-- `final_summarizer.ipynb` — full pipeline: preprocessing, training, and inference
-- `app.py` — Streamlit web interface
+- `Final_summarizer.ipynb` — full pipeline: preprocessing, training, and inference
+- `Streamlit_app.py` — Streamlit web interface
 - `fallback_inference.py` — standalone inference script for single-paper testing
 - `docs/Final_Summarization_Report.pdf` — full project report
 
