@@ -19,6 +19,9 @@ Flesch-Kincaid readability metrics.
 4. Pass 2: chunk summaries are merged and re-summarized into a final output
 5. Output is delivered in Technical or Simplified mode
 
+## Web Interface
+![Streamlit App](assets/app_screenshot.png)
+
 ## Files
 - `Final_summarizer.ipynb` — full pipeline: preprocessing, training, and inference
 - `Streamlit_app.py` — Streamlit web interface
