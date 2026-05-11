@@ -1,0 +1,10 @@
+transformers
+peft
+torch
+datasets
+streamlit
+bert-score
+rouge-score
+keep-it-simple
+sentencepiece
+accelerate
