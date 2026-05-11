@@ -25,15 +25,15 @@ Flesch-Kincaid readability metrics.
 ![Streamlit App](assets/st4.PNG)
 
 ## Files
-- `Final_summarizer.ipynb` — full pipeline: preprocessing, training, and inference
-- `Streamlit_app.py` — Streamlit web interface
-- `fallback_inference.py` — standalone inference script for single-paper testing
-- `docs/Final_Summarization_Report.pdf` — full project report
+- `Final_summarizer.ipynb`  full pipeline: preprocessing, training, and inference
+- `Streamlit_app.py`  Streamlit web interface
+- `fallback_inference.py`  standalone inference script for single-paper testing
+- `docs/Final_Summarization_Report.pdf` full project report
 
 ## Model & Dataset
 - Base model: BART-large (facebook/bart-large-cnn)
 - Fine-tuning: LoRA via HuggingFace PEFT
-- Dataset: FlameF0X/arXiv-AI-ML (Hugging Face) — 2,500 papers
+- Dataset: FlameF0X/arXiv-AI-ML (Hugging Face) : 2,500 papers
 - Simplification: keep_it_simple (GPT-2 based)
 
 ## Requirements
