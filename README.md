@@ -17,11 +17,10 @@ Flesch-Kincaid readability metrics.
 2. Text is chunked into model-safe segments
 3. Pass 1: each chunk is summarized independently
 4. Pass 2: chunk summaries are merged and re-summarized into a final output
-5. Output is delivered in Technical or Simplified mode
-
-## Web Interface
 ![Streamlit App](assets/st1.PNG)
+5. Output is delivered in Technical or Simplified mode or both side by side
 ![Streamlit App](assets/st2.PNG)
+6. Generated Summaries can be evaluated against Reference summary with metrics scores displayed 
 ![Streamlit App](assets/st4.PNG)
 
 ## Files
